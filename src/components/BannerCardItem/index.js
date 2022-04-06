@@ -1,3 +1,5 @@
+import './index.css'
+
 const BannerCardItem = props => {
   const {bannerDetails} = props
   const {headerText, description, className} = bannerDetails
